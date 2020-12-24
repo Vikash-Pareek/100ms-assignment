@@ -1,4 +1,4 @@
-# Breakin Bad API - ReactJS
+# Breaking Bad API - ReactJS
 Breaking Bad Cast Details using API
 
 
