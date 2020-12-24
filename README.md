@@ -1,4 +1,4 @@
-# 100ms.live - Internship Assignment
+# Breakin Bad API - ReactJS
 Breaking Bad Cast Details using API
 
 
