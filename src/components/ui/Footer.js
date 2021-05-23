@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
     return (
         <footer className='footer'>
-            Copyright © ReactJS Assignment By Vikash Pareek For 100ms.live {new Date().getFullYear()}
+            Copyright © ReactJS Project By Vikash Pareek 2020 - {new Date().getFullYear()}.
         </footer>
     )
 }
